@@ -88,5 +88,6 @@ The API uses JSON Web Tokens (JWT) for authentication. The user must include the
    JWT_SECRET=<your-jwt-secret-key>
    ```
 4. Start the server: `npm start`
+5. Start the server `npm run dev` => nodemon for automatically restarting the node application
 
 The API will be available at `http://localhost:3000`.
