@@ -1,5 +1,3 @@
-Sure, here's a sample README file with the API endpoints for the Travel Diary Platform Backend:
-
 # Travel Diary Platform Backend
 
 This is the backend API for the Travel Diary Platform, built using Node.js, Express.js, and MongoDB.
